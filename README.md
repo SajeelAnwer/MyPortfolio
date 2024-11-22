@@ -23,4 +23,4 @@ watch framer motion videos for more animation
 
 
 
-okay continue from 1:19:30 services section design
+okay continue from 1:22:00 services section design
