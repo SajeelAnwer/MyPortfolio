@@ -14,12 +14,24 @@ const Services = () => {
 
         <motion.div className="titleContainer">
             <div className="title">
+                
                 {/*<img src="/people.webp" alt="" />*/}
                 <h1>Transforming ideas into a digital reality</h1>
+                
             </div>
         </motion.div>
 
-        <motion.div className="listContainer"></motion.div>
+        <motion.div className="listContainer">
+            <div className="box">
+                <h2>Skills</h2>
+                <p>list of skills instead of this but first ill style it then we will see whats the flow</p>
+            </div>
+
+            <div className="box">
+                <h2>Languages & Tools</h2>
+                <p>list of Tools instead of this but first ill style it then we will see whats the flow</p>
+            </div>
+        </motion.div>
     </motion.div>
   )
 }
