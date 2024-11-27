@@ -22,15 +22,15 @@ const Services = () => {
         </motion.div>
 
         <motion.div className="listContainer">
-            <div className="box">
+            <motion.div className="box" whileHover={{background: "lightgray", color:"black"}}>
                 <h2>Skills</h2>
                 <p>list of skills instead of this but first ill style it then we will see whats the flow</p>
-            </div>
+            </motion.div>
 
-            <div className="box">
+            <motion.div className="box" whileHover={{background: "lightgray", color:"black"}}>
                 <h2>Languages & Tools</h2>
                 <p>list of Tools instead of this but first ill style it then we will see whats the flow</p>
-            </div>
+            </motion.div>
         </motion.div>
     </motion.div>
   )

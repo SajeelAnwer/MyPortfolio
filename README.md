@@ -12,10 +12,14 @@ hero.scss - wrapper max width , text container gap , h2 font size letter spacing
 parallax.jsx - yText, yBg animation speed can be changed
 
 
+convert the sizes to vh
+
+
 
 
 npm i 
 npm run dev to start
+npm run dev -- --host
 
 framer motion library is used by adding <motion.div> or motion.anytag that u r usiing
 
@@ -23,4 +27,4 @@ watch framer motion videos for more animation
 
 
 
-okay continue from 1:22:00 services section design
+okay continue from 1:30:00 
